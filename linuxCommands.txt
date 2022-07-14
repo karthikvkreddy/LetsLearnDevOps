@@ -1,0 +1,5 @@
+- To Check what is running on port number
+```
+ss tunip | grep <port_no>
+```
+- 
