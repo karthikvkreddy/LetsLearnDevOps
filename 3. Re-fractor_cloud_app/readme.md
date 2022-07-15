@@ -38,7 +38,7 @@
 
 ### Architecture:
 ---
-![alt text](..\images\3-arc.png)
+![alt text](../images/3-arc.png)
 
 
 ## Flow of Execution:
